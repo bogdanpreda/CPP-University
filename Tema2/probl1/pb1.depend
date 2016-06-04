@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1463848690 source:d:\faculta\p2\temaparat2\pb1\src\aparatdezbor.cpp
+	"AparatDeZbor.h"
+
+1463861793 bor.h"
+
+1463848652 d:\faculta\p2\temaparat2\pb1\include\aparatdezbor.h
+	<iostream>
+	<string.h>
+
+1463861732 
+
+1463848696 source:d:\faculta\p2\temaparat2\pb1\src\avion.cpp
+	"Avion.h"
+
+1463861504 
+
+1463848663 d:\faculta\p2\temaparat2\pb1\include\avion.h
+	"AparatDeZbor.h"
+
+1463848685 source:d:\faculta\p2\temaparat2\pb1\src\balon.cpp
+	"Balon.h"
+
+1463848671 d:\faculta\p2\temaparat2\pb1\include\balon.h
+	"AparatDeZbor.h"
+
+1463849588 source:d:\faculta\p2\temaparat2\pb1\main.cpp
+	<iostream>
+	<typeinfo>
+	"AparatDeZbor.h"
+	"Balon.h"
+	"Avion.h"
+
+1463861541 source:d:\faculta\p2\tema2\pb1\main.cpp
+	<iostream>
+	<typeinfo>
+	"AparatDeZbor.h"
+	"Balon.h"
+	"Avion.h"
+
+1463861732 d:\faculta\p2\tema2\pb1\include\aparatdezbor.h
+	<iostream>
+	<string.h>
+
+1463861500 d:\faculta\p2\tema2\pb1\include\balon.h
+	"AparatDeZbor.h"
+
+1463861499 d:\faculta\p2\tema2\pb1\include\avion.h
+	"AparatDeZbor.h"
+
+1463861793 source:d:\faculta\p2\tema2\pb1\src\aparatdezbor.cpp
+	"AparatDeZbor.h"
+
+1463861503 source:d:\faculta\p2\tema2\pb1\src\avion.cpp
+	"Avion.h"
+
+1463861504 source:d:\faculta\p2\tema2\pb1\src\balon.cpp
+	"Balon.h"
+
+1463858193 source:/media/bogdanp/Local Disk/Faculta/P2/Tema2/probl1/src/AparatDeZbor.cpp
+	"AparatDeZbor.h"
+
+1463858132 /media/bogdanp/Local Disk/Faculta/P2/Tema2/probl1/include/AparatDeZbor.h
+	<iostream>
+	<string.h>
+
+1463857903 source:/media/bogdanp/Local Disk/Faculta/P2/Tema2/probl1/src/Avion.cpp
+	"Avion.h"
+
+1463857899 /media/bogdanp/Local Disk/Faculta/P2/Tema2/probl1/include/Avion.h
+	"AparatDeZbor.h"
+
+1463857904 source:/media/bogdanp/Local Disk/Faculta/P2/Tema2/probl1/src/Balon.cpp
+	"Balon.h"
+
+1463857900 /media/bogdanp/Local Disk/Faculta/P2/Tema2/probl1/include/Balon.h
+	"AparatDeZbor.h"
+

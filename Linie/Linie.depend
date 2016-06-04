@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1458148708 source:c:\users\student\desktop\linie\main.cpp
+	<iostream>
+	"EngineGlut.h"
+
+1458148387 c:\users\student\desktop\linie\engineglut.h
+
+1459352170 source:e:\linie\class point2d.cpp
+	"class Point2D.h"
+	<iostream>
+
+1459354121 e:\linie\class point2d.h
+
+1459354545 source:e:\linie\line2d.cpp
+	"Line2D.h"
+	<iostream>
+	"class Point2D.h"
+
+1459352609 e:\linie\line2d.h
+	<iostream>
+	"class Point2D.h"
+
+1459355014 source:e:\linie\main.cpp
+	<iostream>
+	"EngineGlut.h"
+	"class Point2D.h"
+	"Line2D.h"
+	"Triangle2D.h"
+
+1458151988 e:\linie\engineglut.h
+
+1459355335 source:e:\linie\triangle2d.cpp
+	"Triangle2D.h"
+	"Line2D.h"
+
+1459355574 e:\linie\triangle2d.h
+	"class Point2D.h"
+
+1459352170 source:h:\linie\class point2d.cpp
+	"class Point2D.h"
+	<iostream>
+
+1459354121 h:\linie\class point2d.h
+
+1459354545 source:h:\linie\line2d.cpp
+	"Line2D.h"
+	<iostream>
+	"class Point2D.h"
+
+1459352609 h:\linie\line2d.h
+	<iostream>
+	"class Point2D.h"
+
+1459954638 source:h:\linie\main.cpp
+	<iostream>
+	"EngineGlut.h"
+	"class Point2D.h"
+	"Line2D.h"
+	"Triangle2D.h"
+
+1458151988 h:\linie\engineglut.h
+
+1459954638 h:\linie\triangle2d.h
+	"class Point2D.h"
+
+1459954678 source:h:\linie\triangle2d.cpp
+	"Triangle2D.h"
+	"Line2D.h"
+	"EngineGlut.h"
+
+1459352170 source:c:\users\andrea\desktop\linie\class point2d.cpp
+	"class Point2D.h"
+	<iostream>
+
+1459354121 c:\users\andrea\desktop\linie\class point2d.h
+
+1459354545 source:c:\users\andrea\desktop\linie\line2d.cpp
+	"Line2D.h"
+	<iostream>
+	"class Point2D.h"
+
+1459352609 c:\users\andrea\desktop\linie\line2d.h
+	<iostream>
+	"class Point2D.h"
+
+1459956811 source:c:\users\andrea\desktop\linie\main.cpp
+	<iostream>
+	"EngineGlut.h"
+	"class Point2D.h"
+	"Line2D.h"
+	"Triangle2D.h"
+	"Vector.h"
+
+1458151988 c:\users\andrea\desktop\linie\engineglut.h
+
+1459954638 c:\users\andrea\desktop\linie\triangle2d.h
+	"class Point2D.h"
+
+1459954678 source:c:\users\andrea\desktop\linie\triangle2d.cpp
+	"Triangle2D.h"
+	"Line2D.h"
+	"EngineGlut.h"
+
+1459956811 source:c:\users\andrea\desktop\linie\src\vector.cpp
+	<iostream>
+	"Vector.h"
+
+1459956811 c:\users\andrea\desktop\linie\include\vector.h
+
+1461701794 source:d:\c++\linie\class point2d.cpp
+	"class Point2D.h"
+	"EngineGlut.h"
+	<iostream>
+
+1459354121 d:\c++\linie\class point2d.h
+
+1459954678 source:d:\c++\linie\triangle2d.cpp
+	"Triangle2D.h"
+	"Line2D.h"
+	"EngineGlut.h"
+
+1459954638 d:\c++\linie\triangle2d.h
+	"class Point2D.h"
+
+1459352609 d:\c++\linie\line2d.h
+	<iostream>
+	"class Point2D.h"
+
+1461700161 d:\c++\linie\engineglut.h
+
+1461701475 source:d:\c++\linie\line2d.cpp
+	"Line2D.h"
+	<iostream>
+	"class Point2D.h"
+	"EngineGlut.h"
+
+1461700063 source:d:\c++\linie\main.cpp
+	<iostream>
+	"EngineGlut.h"
+	"class Point2D.h"
+	"Line2D.h"
+	"Triangle2D.h"
+
+1461714470 source:d:\faculta\p2\linie\class point2d.cpp
+	"class Point2D.h"
+	"EngineGlut.h"
+	<iostream>
+
+1459357721 d:\faculta\p2\linie\class point2d.h
+
+1458037316 d:\faculta\p2\linie\engineglut.h
+
+1461705075 source:d:\faculta\p2\linie\line2d.cpp
+	"Line2D.h"
+	<iostream>
+	"class Point2D.h"
+	"EngineGlut.h"
+
+1459356209 d:\faculta\p2\linie\line2d.h
+	<iostream>
+	"class Point2D.h"
+
+1459958278 source:d:\faculta\p2\linie\triangle2d.cpp
+	"Triangle2D.h"
+	"Line2D.h"
+	"EngineGlut.h"
+
+1459958238 d:\faculta\p2\linie\triangle2d.h
+	"class Point2D.h"
+
+1461714524 source:d:\faculta\p2\linie\main.cpp
+	<iostream>
+	<windows.h>
+	"EngineGlut.h"
+	"class Point2D.h"
+

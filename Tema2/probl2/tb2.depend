@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1463862849 source:d:\faculta\p2\tema2\tb2\main.cpp
+	<iostream>
+	<string.h>
+	<typeinfo>
+	"AparatFrigorific.h"
+	"Frigider.h"
+	"Congelator.h"
+	"Combina.h"
+	"FrigiderSidebySide.h"
+	"LadaFrigorifica.h"
+
+1463862393 d:\faculta\p2\tema2\tb2\include\aparatfrigorific.h
+	<iostream>
+
+1463862390 d:\faculta\p2\tema2\tb2\include\frigider.h
+	<iostream>
+	"AparatFrigorific.h"
+
+1463862391 d:\faculta\p2\tema2\tb2\include\congelator.h
+	<iostream>
+	"AparatFrigorific.h"
+
+1463862393 d:\faculta\p2\tema2\tb2\include\combina.h
+	"Congelator.h"
+	<iostream>
+	"Frigider.h"
+
+1463862897 source:d:\faculta\p2\tema2\tb2\src\aparatfrigorific.cpp
+	"AparatFrigorific.h"
+	<iostream>
+
+1463862902 source:d:\faculta\p2\tema2\tb2\src\combina.cpp
+	"Combina.h"
+
+1463862796 source:d:\faculta\p2\tema2\tb2\src\congelator.cpp
+	"Congelator.h"
+
+1463862796 source:d:\faculta\p2\tema2\tb2\src\frigider.cpp
+	"Frigider.h"
+
+1463862797 source:d:\faculta\p2\tema2\tb2\src\frigidersidebyside.cpp
+	"FrigiderSidebySide.h"
+
+1463862389 d:\faculta\p2\tema2\tb2\include\frigidersidebyside.h
+	<iostream>
+	"Frigider.h"
+
+1463862798 source:d:\faculta\p2\tema2\tb2\src\ladafrigorifica.cpp
+	"LadaFrigorifica.h"
+
+1463862389 d:\faculta\p2\tema2\tb2\include\ladafrigorifica.h
+	<iostream>
+	"Congelator.h"
+
+1463862897 source:d:\faculta\p2\tema2\probl2\src\aparatfrigorific.cpp
+	"AparatFrigorific.h"
+	<iostream>
+
+1463862393 d:\faculta\p2\tema2\probl2\include\aparatfrigorific.h
+	<iostream>
+
+1463862902 source:d:\faculta\p2\tema2\probl2\src\combina.cpp
+	"Combina.h"
+
+1463862393 d:\faculta\p2\tema2\probl2\include\combina.h
+	"Congelator.h"
+	<iostream>
+	"Frigider.h"
+
+1463862391 d:\faculta\p2\tema2\probl2\include\congelator.h
+	<iostream>
+	"AparatFrigorific.h"
+
+1463862390 d:\faculta\p2\tema2\probl2\include\frigider.h
+	<iostream>
+	"AparatFrigorific.h"
+
+1463862796 source:d:\faculta\p2\tema2\probl2\src\congelator.cpp
+	"Congelator.h"
+
+1463862796 source:d:\faculta\p2\tema2\probl2\src\frigider.cpp
+	"Frigider.h"
+
+1463863116 source:d:\faculta\p2\tema2\probl2\src\frigidersidebyside.cpp
+	"FrigiderSidebySide.h"
+
+1463862389 d:\faculta\p2\tema2\probl2\include\frigidersidebyside.h
+	<iostream>
+	"Frigider.h"
+
+1463863115 source:d:\faculta\p2\tema2\probl2\src\ladafrigorifica.cpp
+	"LadaFrigorifica.h"
+
+1463862389 d:\faculta\p2\tema2\probl2\include\ladafrigorifica.h
+	<iostream>
+	"Congelator.h"
+

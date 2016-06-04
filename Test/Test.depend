@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461062691 source:d:\faculta\p2\test\main.cpp
+	<iostream>
+	"Jucarie.h"
+
+1461062768 d:\faculta\p2\test\include\jucarie.h
+	<string.h>
+	<iostream>
+	<list>
+
+1461062666 source:d:\faculta\p2\test\src\jucarie.cpp
+	"Jucarie.h"
+	<string.h>
+	<iostream>
+

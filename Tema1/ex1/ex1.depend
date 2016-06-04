@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1461438900 source:d:\faculta\p2\tema1\ex1\main.cpp
+	<iostream>
+	<Planeta.h>
+	<cstdlib>
+
+1461436499 d:\faculta\p2\tema1\ex1\include\planeta.h
+	<iostream>
+
+1461436480 source:d:\faculta\p2\tema1\ex1\src\planeta.cpp
+	"Planeta.h"
+	<iostream>
+	<string.h>
+
