@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1458038549 source:d:\faculta\p2\lab3\ex1\main.cpp
+	<iostream>
+	"include/Stiva.h"
+
+1458037933 d:\faculta\p2\lab3\ex1\include\stiva.h
+
+1458038697 source:d:\faculta\p2\lab3\ex1\src\stiva.cpp
+	"../include/Stiva.h"
+	<iostream>
+
